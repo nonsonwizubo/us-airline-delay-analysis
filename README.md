@@ -37,5 +37,5 @@ This project uses a dataset from Kaggle.
 
 ## Key Insights
 - There is significant variation in average arrival delays across airlines.
-- Airlines with the highest flight volume show more stable performance compared to smaller carriers.
+- Airline performance differs across both delay metrics and total flight volume.
 - SQL aggregation queries (GROUP BY, AVG, COUNT) effectively revealed operational differences across carriers.
