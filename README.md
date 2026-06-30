@@ -1,16 +1,16 @@
 # US Airline Delay Analysis
 
-### Overview
+## Overview
 Built a SQL project using SQLite and Python to analyze US airline delay data. Used aggregation queries to compare airlines and find patterns in arrival delays.
 
 Built as an introduction to basic SQL 
 
-### Data Source
+## Data Source
 This project uses a dataset from Kaggle.
 * **Dataset Name:** Airlines Delay
 * **Source:** https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
 * **Description:** Contains US airline flight data including departure/arrival times, delays, carriers, origins, and destinations, used to analyze airline performance and delay patterns.
-### Airline Delay Summary
+## Airline Delay Summary
 
 | Carrier | Avg Arrival Delay (min) | Total Flights |
 |--------|--------------------------|--------------|
@@ -35,7 +35,7 @@ This project uses a dataset from Kaggle.
 | F9 | 27.94 | 28,269 |
 | AQ | 21.26 | 750 |
 
-### Key Insights
+## Key Insights
 - There is significant variation in average arrival delays across airlines.
 - Airlines with the highest flight volume show more stable performance compared to smaller carriers.
 - SQL aggregation queries (GROUP BY, AVG, COUNT) effectively revealed operational differences across carriers.
