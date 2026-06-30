@@ -6,7 +6,7 @@ Built a SQL project using SQLite and Python to analyze US airline delay data. Us
 Built as an introduction to basic SQL 
 
 ### Data Source
-This project utilizes an open-source dataset sourced from Kaggle.
+This project uses a dataset from Kaggle.
 * **Dataset Name:** Airlines Delay
 * **Source:** https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
 * **Description:** Contains US airline flight data including departure/arrival times, delays, carriers, origins, and destinations, used to analyze airline performance and delay patterns.
