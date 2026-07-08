@@ -1,7 +1,7 @@
 # US Airline Delay Analysis
 
 ## Overview
-Introductory SQL project using SQLite and Python to analyze US airline delay data through basic aggregation queries.
+Introductory SQL project using SQLite,Python,and Pandas to clean and analyze US airline delay data through basic aggregation queries.
 
 ## Data Source
 This project uses a dataset from Kaggle.
